@@ -1,10 +1,8 @@
-## Hi, I’m Warao 👋
+# Hi, I’m Warao 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/warao) 
 
 I’m a **product-focused frontend / full-stack engineer** with **10+ years of experience** building and shipping user-facing applications. I work close to the product, own problems end-to-end, and enjoy turning complex systems into **clear, intuitive, high-leverage experiences**.
 
 I care deeply about **UX, system clarity, and reducing friction**—between frontend ↔ backend, product ↔ engineering, and users ↔ complex technology. While frontend is my core strength, I regularly step outside strict role boundaries when it helps the team move faster or build better abstractions.
-
----
 
 ## What I Work On
 
@@ -46,6 +44,9 @@ I initially led **frontend and product initiatives**, then stepped deeper into t
 
 ## Open Source & Ecosystem Collaboration
 
+![](https://github-readme-stats.vercel.app/api?username=Wgil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Wgil&theme=dark&hide_border=false)
+
 I engage with open source when it improves real production systems—whether that’s contributing code, reporting upstream issues, or helping maintainers debug tricky edge cases.
 
 ### 🌱 Elys Ecosystem (Cosmos / Web3)
@@ -83,6 +84,8 @@ Older contributions, but good examples of how I approach debugging, communicatio
 
 ## Outside of Code
 
-I enjoy working on **early-stage products**, improving **onboarding flows**, and helping teams move faster with **less friction**. I’m especially interested in roles where **engineering, product, and real users intersect**.
+I enjoy working on **early-stage products**, improving **onboarding flows**, and helping teams move faster with **less friction**. I’m especially drawn to roles where **engineering, product, and real users intersect**.  
 
-📫 Feel free to explore my repositories below—or reach out if you enjoy working with thoughtful, low-ego teams building real products.
+Beyond product work, I love **exploring new technologies**, whether it’s **building mining rigs, tinkering with hardware setups, or experimenting with new frameworks and tools**. Staying hands-on with tech keeps me curious and constantly learning.  
+
+📫 Feel free to reach out if you enjoy working with **thoughtful, low-ego teams building real products**.
