@@ -9,11 +9,22 @@ I care deeply about **UX, system clarity, and reducing friction**—between fron
 ## What I Work On
 
 - **Frontend & full-stack web applications**  
-  TypeScript, React, modern JavaScript, performance-sensitive UIs
-- **Product-driven interfaces**  
-  UX, clarity, accessibility, and reliability over unnecessary abstraction
-- **Complex system integration**  
-  Frontend ↔ backend ↔ Web3 / blockchain systems
+- **Product-driven interfaces**: UX, clarity, accessibility, and reliability over unnecessary abstraction
+- **Complex system integration**: Frontend ↔ backend ↔ Web3 / blockchain systems
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Cosmos SDK](https://img.shields.io/badge/Cosmos-2E3148?style=for-the-badge&logo=cosmos&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
 
 ---
 
@@ -67,16 +78,6 @@ Older contributions, but good examples of how I approach debugging, communicatio
 - **Collaboration** — close work with design, backend, and stakeholders  
 - **Adaptability** — learn new tools quickly when the problem requires it  
 - **Pragmatism** — simple solutions beat clever ones
-
----
-
-## Tech I Use Often
-
-- **Frontend:** TypeScript, JavaScript, React, Next.js, Vite, modern CSS  
-- **Backend / Infra:** Node.js, REST / GraphQL APIs, Go & Rust when needed  
-- **Web3:** Cosmos SDK, Solidity, wallets, asset registries  
-- **Product & DX:** Design systems, performance tuning, accessibility, analytics  
-- **Tooling:** CI/CD, GitHub Actions, monitoring & debugging tools
 
 ---
 
