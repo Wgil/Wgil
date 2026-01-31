@@ -102,7 +102,7 @@ Beyond product work, I love **exploring new technologies**, whether it's **build
 
 ## 📬 Let's Connect
 
-I'm currently **open to full-stack or frontend engineering roles** (remote or hybrid).
+I'm currently **open to full-stack or frontend engineering roles** (remote or open to relocate).
 
 Interested in working together or just want to chat about tech?
 
