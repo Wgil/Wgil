@@ -108,6 +108,6 @@ Interested in working together or just want to chat about tech?
 
 - 📧 **Email:** wgil14@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/warao](https://linkedin.com/in/warao)
-- 🌐 **Based in:** Caracas, VE
+- 🌐 **Based in:** Argentina
 
 Feel free to reach out if you enjoy working with **thoughtful, low-ego teams building real products**.
