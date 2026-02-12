@@ -6,7 +6,7 @@ I care deeply about **UX, system clarity, and reducing friction**—between fron
 
 ## 🔭 Currently
 
-- Building a **B2B SaaS ticketing platform** (validating product-market fit in Venezuela)
+- Building a **B2B SaaS ticketing platform** (validating product-market fit)
 - Experimenting with **AI-assisted development workflows** (Claude Code, Cursor, MCP protocols, CodeRabbit)
 - **Open to full-stack or frontend engineering roles** (remote/hybrid)
 
